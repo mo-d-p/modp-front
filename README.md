@@ -6,7 +6,8 @@ modp-front是一个后台管理系统的前端页面展示，是由vue-cli4和el
 项目采用弹性盒（flex）布局，故而在移动端也有着较好的显示效果
 
 ## 演示()
-[账号密码](admin/admin)
+[账号密码]
+(admin/admin)
 
 
 ## 开发
